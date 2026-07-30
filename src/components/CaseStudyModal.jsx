@@ -67,6 +67,7 @@ export default function CaseStudyModal({ project, onClose }) {
       {/* Slide-Over Drawer Content */}
       <div
         ref={contentRef}
+        data-lenis-prevent="true"
         className="relative w-full max-w-4xl h-full bg-obsidian-900 border-l border-white/15 z-10 overflow-y-auto p-6 md:p-12 text-platinum flex flex-col justify-between shadow-[0_0_80px_rgba(0,0,0,0.9)]"
       >
         {/* Top Header Bar */}

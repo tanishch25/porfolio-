@@ -15,14 +15,14 @@ export default function ServicesAccordion({ onOpenModal }) {
       bgHover: "hover:bg-electric-cyan/5",
       previewImg: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=800&auto=format&fit=crop",
       description:
-        "Pioneering the next generation of chemical engineering by leveraging Physics-Informed Neural Networks (PINNs). I build highly accurate digital twins for chemical industries, simulating complex reactions and thermodynamics to optimize yield and predict equipment churn before it happens.",
+        "Pioneering the next generation of chemical engineering by leveraging highly accurate Physics-Informed Neural Networks (PINNs). I am deeply interested in digital twins for chemical processes, and have authored a research paper applying PINN architectures to successfully predict gym member churn.",
       deliverables: [
         "Physics-Informed Neural Networks (PINNs)",
         "Real-time Chemical Digital Twins",
         "Thermodynamic Process Simulation Portals",
         "Predictive Equipment Churn Algorithms",
       ],
-      relatedProjectId: "aetheria-analytics",
+      relatedProjectId: "paper-pinn-churn",
     },
     {
       number: "02",
