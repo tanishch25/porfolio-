@@ -58,7 +58,7 @@ export default function ServicesAccordion({ onOpenModal }) {
         "Strategic Conversion Bottleneck Resolution",
         "Actionable Performance Dashboards",
       ],
-      relatedProjectId: "nexus-growth",
+      relatedProjectId: "data-analytics-olist",
     },
   ];
 
